@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Meet/OneDrive/Desktop/engg/MLFlow/MLProject2/mlruns/957429567443574320/2a1b1d2f2817499698d6d0c3014f98e5/artifacts
+end_time: 1729941177123
+entry_point_name: ''
+experiment_id: '957429567443574320'
+lifecycle_stage: active
+run_id: 2a1b1d2f2817499698d6d0c3014f98e5
+run_name: fun-vole-404
+run_uuid: 2a1b1d2f2817499698d6d0c3014f98e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729941177052
+status: 4
+tags: []
+user_id: Meet

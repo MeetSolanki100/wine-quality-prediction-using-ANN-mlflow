@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Meet/OneDrive/Desktop/engg/MLFlow/MLProject2/mlruns/957429567443574320/51d3ef608d574e6284923f0fe8e9e7fd/artifacts
+end_time: 1729941403385
+entry_point_name: ''
+experiment_id: '957429567443574320'
+lifecycle_stage: active
+run_id: 51d3ef608d574e6284923f0fe8e9e7fd
+run_name: bouncy-trout-343
+run_uuid: 51d3ef608d574e6284923f0fe8e9e7fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729941386699
+status: 3
+tags: []
+user_id: Meet

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729941804436
+current_stage: None
+description: ''
+last_updated_timestamp: 1729941804436
+name: final-model
+run_id: 24c1ee8cc8374311b15c63cb9d570825
+run_link: ''
+source: file:///c:/Users/Meet/OneDrive/Desktop/engg/MLFlow/MLProject2/mlruns/957429567443574320/24c1ee8cc8374311b15c63cb9d570825/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Meet/OneDrive/Desktop/engg/MLFlow/MLProject2/mlruns/957429567443574320/24c1ee8cc8374311b15c63cb9d570825/artifacts/model
+user_id: null
+version: 1

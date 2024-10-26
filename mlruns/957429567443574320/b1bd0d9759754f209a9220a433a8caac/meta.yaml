@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Meet/OneDrive/Desktop/engg/MLFlow/MLProject2/mlruns/957429567443574320/b1bd0d9759754f209a9220a433a8caac/artifacts
+end_time: 1729941439326
+entry_point_name: ''
+experiment_id: '957429567443574320'
+lifecycle_stage: active
+run_id: b1bd0d9759754f209a9220a433a8caac
+run_name: resilient-cod-445
+run_uuid: b1bd0d9759754f209a9220a433a8caac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729941386356
+status: 3
+tags: []
+user_id: Meet
